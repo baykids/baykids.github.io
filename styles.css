@@ -1,0 +1,27 @@
+body {
+ background-color: #E9DDD4;
+ color: #2A2825;
+}
+
+p {
+    color: #2A2825;
+}
+
+.profile {
+    border-radius: 200px;
+}
+.xmas {
+    height: 420px;
+    width: 420px;
+    border-radius: 200px;
+}
+.spacer {
+    margin-top: 10vw;
+}
+.spacer-bt {
+    margin-bottom: 10vw;
+}
+
+.alignver {
+    padding: 3.5vw;
+}
