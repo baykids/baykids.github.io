@@ -13,4 +13,4 @@ via GitHub pages (it's free) so settings > pages > set branches to pull code
 - to change custom domain, settings > pages > custom domain > enter new url and save
 - go into your domain settings > edit dns configuration > add 4 A-type records for github's server and 1 CNAME-type record for your custom domain > might have to remove and save custom domain again
 - wait till TLS certificate is issued > check enforce HTTPS > SSL will be issued 
-- view site :D or text me if you want have issues lol
+- view site :D or text me if you have issues lol
